@@ -1,4 +1,5 @@
-import tensorflow_gpu as tf
+import tensorflow as tf
 
+print(tf.__version__)
 print("Hello")
 
